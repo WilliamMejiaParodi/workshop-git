@@ -1,1 +1,2 @@
 Inicio del resumen
+Durante este workshop, practicaremos el uso basico de Git enfocado en integracion de proyectos de Automatizacion y Copntrol
